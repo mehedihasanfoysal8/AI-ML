@@ -1,0 +1,4 @@
+This is a simple text file.
+It contains multiple lines of text.
+This is the third line.
+This line will be added to the end of the file.
