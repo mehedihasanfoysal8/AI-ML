@@ -1,0 +1,13 @@
+| Method           | Use             |
+| ---------------- | --------------- |
+| `st.write()`     | সবকিছু          |
+| `st.text()`      | plain text      |
+| `st.markdown()`  | styled text     |
+| `st.title()`     | বড় title        |
+| `st.header()`    | header          |
+| `st.subheader()` | subheader       |
+| `st.caption()`   | ছোট লেখা        |
+| `st.success()`   | success message |
+| `st.error()`     | error           |
+| `st.warning()`   | warning         |
+| `st.info()`      | info            |
